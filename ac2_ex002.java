@@ -14,9 +14,9 @@ public class ac2_ex002{
         dire = s.nextInt();//Salva a resposta do usuário
 
         if(psico == 1 && legis == 1 && dire == 1){//Condicional na qual todas tem que ser Verdadeiras
-            System.out.print("Você foi APROVADO!");//Se a condição for satisfeita
+            System.out.print("Você pode DIRIGIR!");//Se a condição for satisfeita
         }else{
-            System.out.print("Você foi REPROVADO!");//Se a condição não for satisfeita
+            System.out.print("Você NÃO PODE DIRIGIR!");//Se a condição não for satisfeita
         }
 
         s.close();

@@ -1,0 +1,7 @@
+INICIO
+    SE foi aprovado no exame psicotécnico E no exame de legislação E no exame de direção, FAÇA
+        Pode dirigir
+    SE NÃO
+        Não pode dirigir
+    FIM SE
+FIM
